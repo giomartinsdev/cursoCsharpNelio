@@ -1,0 +1,15 @@
+/home/giovanni.amartins/Documentos/cursos/cursoCsharpNelio/projects/FirstProject/bin/Debug/net8.0/FirstProject
+/home/giovanni.amartins/Documentos/cursos/cursoCsharpNelio/projects/FirstProject/bin/Debug/net8.0/FirstProject.deps.json
+/home/giovanni.amartins/Documentos/cursos/cursoCsharpNelio/projects/FirstProject/bin/Debug/net8.0/FirstProject.runtimeconfig.json
+/home/giovanni.amartins/Documentos/cursos/cursoCsharpNelio/projects/FirstProject/bin/Debug/net8.0/FirstProject.dll
+/home/giovanni.amartins/Documentos/cursos/cursoCsharpNelio/projects/FirstProject/bin/Debug/net8.0/FirstProject.pdb
+/home/giovanni.amartins/Documentos/cursos/cursoCsharpNelio/projects/FirstProject/obj/Debug/net8.0/FirstProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/giovanni.amartins/Documentos/cursos/cursoCsharpNelio/projects/FirstProject/obj/Debug/net8.0/FirstProject.AssemblyInfoInputs.cache
+/home/giovanni.amartins/Documentos/cursos/cursoCsharpNelio/projects/FirstProject/obj/Debug/net8.0/FirstProject.AssemblyInfo.cs
+/home/giovanni.amartins/Documentos/cursos/cursoCsharpNelio/projects/FirstProject/obj/Debug/net8.0/FirstProject.csproj.CoreCompileInputs.cache
+/home/giovanni.amartins/Documentos/cursos/cursoCsharpNelio/projects/FirstProject/obj/Debug/net8.0/FirstProject.sourcelink.json
+/home/giovanni.amartins/Documentos/cursos/cursoCsharpNelio/projects/FirstProject/obj/Debug/net8.0/FirstProject.dll
+/home/giovanni.amartins/Documentos/cursos/cursoCsharpNelio/projects/FirstProject/obj/Debug/net8.0/refint/FirstProject.dll
+/home/giovanni.amartins/Documentos/cursos/cursoCsharpNelio/projects/FirstProject/obj/Debug/net8.0/FirstProject.pdb
+/home/giovanni.amartins/Documentos/cursos/cursoCsharpNelio/projects/FirstProject/obj/Debug/net8.0/FirstProject.genruntimeconfig.cache
+/home/giovanni.amartins/Documentos/cursos/cursoCsharpNelio/projects/FirstProject/obj/Debug/net8.0/ref/FirstProject.dll
